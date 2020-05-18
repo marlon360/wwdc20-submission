@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1 Introduction'/>
+        <page name='2 Basic Quiz'/>
+        <page name='3 Image Quiz'/>
+        <page name='4 3D Quiz'/>
+        <page name='5 Question Generator'/>
+        <page name='6 Drawing Quiz'/>
+        <page name='7 Summary'/>
+    </pages>
+</playground>
